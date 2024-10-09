@@ -8,7 +8,7 @@ Este é o repositório com os projetos que estou desenvolvendo.
 
 ## Troféus do GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LucianoDenio)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Jogo da Cobrinha
 
