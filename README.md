@@ -4,7 +4,7 @@ Este é o repositório com os projetos que estou desenvolvendo.
 
 ## Minhas Estatísticas GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoDenio&show_icons=true&theme=radical)
 
 ## Troféus do GitHub
 
