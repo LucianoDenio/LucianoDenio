@@ -40,16 +40,18 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre em bus
 ### [Projeto 1: Site do Siri Cascudo](https://github.com/LucianoDenio/Site-do-Siri-Cascudo)
 **Descrição:** Uma breve descrição do projeto, o que ele faz e as tecnologias usadas.
 
-### [Projeto 2: Jogo de combate em java](https://github.com/LucianoDenio/Desafio_Combate_Java)
-**Descrição:** Uma breve descrição do projeto, o que ele faz e as tecnologias usadas.
+## 💼 Projetos Principais
+
+- [Jogo de Combate em Java](https://github.com/LucianoDenio/Desafio_Combate_Java) - Uma simulação de combate entre campeões em Java, onde você pode personalizar atributos e acompanhar a evolução da batalha.
+
 
 ---
 
 ## 📈 Minhas Estatísticas Pessoais
 
-- **Total de Commits:** ![GitHub Commits](https://img.shields.io/github/commit-activity/y/LucianoDenio/SEU_REPOSITORIO)
-- **Total de Stars:** ![GitHub Stars](https://img.shields.io/github/stars/LucianoDenio)
-- **Total de PRs:** ![GitHub PRs](https://img.shields.io/github/issues-pr/LucianoDenio)
+- **Total de Commits:** ![GitHub Commits](https://img.shields.io/github/commit-activity/y/LucianoDenio/Site-do-Siri-Cascudo)
+- **Total de Stars:** ![GitHub Stars](https://img.shields.io/github/stars/LucianoDenio/Site-do-Siri-Cascudo)
+- **Total de PRs:** ![GitHub PRs](https://img.shields.io/github/issues-pr/LucianoDenio/Site-do-Siri-Cascudo)
 
 ---
 
