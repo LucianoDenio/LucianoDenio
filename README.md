@@ -37,10 +37,10 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre em bus
 
 ## 💼 Projetos Principais
 
-### [Projeto 1: Nome do Projeto]([(https://github.com/LucianoDenio/Site-do-Siri-Cascudo)])
+### [Projeto 1: Site do Siri Cascudo](https://github.com/LucianoDenio/Site-do-Siri-Cascudo)
 **Descrição:** Uma breve descrição do projeto, o que ele faz e as tecnologias usadas.
 
-### [Projeto 2: Nome do Projeto](https://github.com/LucianoDenio/nome-do-projeto)
+### [Projeto 2: Jogo de combate em java](https://github.com/LucianoDenio/Desafio_Combate_Java)
 **Descrição:** Uma breve descrição do projeto, o que ele faz e as tecnologias usadas.
 
 ---
