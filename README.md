@@ -1,10 +1,13 @@
-# Meu Projeto
+# Olá, eu sou Luciano Denio
 
 Este é o repositório com os projetos que estou desenvolvendo.
 
-## Minhas Estatísticas GitHub
+## Minhas Estatísticas GitHub e Linguagens mais usadas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoDenio&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoDenio&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoDenio&layout=compact&theme=radical" alt="Top Langs" height="150">
+</p>
 
 ## Troféus do GitHub
 
@@ -13,3 +16,4 @@ Este é o repositório com os projetos que estou desenvolvendo.
 ## Jogo da Cobrinha
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
