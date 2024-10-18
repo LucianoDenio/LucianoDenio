@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre em bus
 - 👨‍💻 Focado em desenvolvimento BackEnd e Java
 - 🔭 Explorando novas tecnologias e criando soluções para problemas do mundo real
 - 🌱 Atualmente estou aprendendo: **JavaScript**, **React**, **Node.js**
-- 📫 Contato: [Linkedin](mailto:(https://www.linkedin.com/in/lucianodenio/)) [Email](mailto:(lucianodenio@gmail.com))
+- 📫 Contato: [Linkedin](https://www.linkedin.com/in/lucianodenio) [Email](mailto:(lucianodenio@gmail.com))
 
 ---
 
