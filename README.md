@@ -6,56 +6,49 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre em bus
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de sistemas.
-- 👨‍💻 Focado em desenvolvimento BackEnd e Java
-- 🔭 Explorando novas tecnologias e criando soluções para problemas do mundo real
-- 🌱 Atualmente estou aprendendo: **JavaScript**, **React**, **Node.js**
-- 📫 Contato: [Linkedin](https://www.linkedin.com/in/lucianodenio) [Email](mailto:(lucianodenio@gmail.com))
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Gran Faculdade.
+- 👨‍💻 Focado em desenvolvimento Back-end e Java.
+- 🔭 Explorando novas tecnologias e criando soluções para problemas do mundo real.
+- 🌱 Atualmente estou aprendendo: **JavaScript**, **React**, **Node.js**.
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/lucianodenio) | [Email](mailto:lucianodenio@gmail.com)
 
 ---
 
 ## ⚡ Minhas Estatísticas GitHub e Linguagens Mais Usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoDenio&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoDenio&layout=compact&theme=radical" alt="Top Langs" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoDenio&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoDenio&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150">
 </p>
 
 ---
 
 ## 🏆 Troféus e Conquistas no GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LucianoDenio&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![troféus](https://github-profile-trophy.vercel.app/?username=LucianoDenio&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🎮 Jogo da Cobrinha
+## 🎮 Contribuições
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Animação da Cobrinha](https://raw.githubusercontent.com/LucianoDenio/LucianoDenio/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 💼 Projetos Principais
 
-### [Projeto 1: Site do Siri Cascudo](https://github.com/LucianoDenio/Site-do-Siri-Cascudo)
-**Descrição:** Uma breve descrição do projeto, o que ele faz e as tecnologias usadas.
+- ⚔️ **[Jogo de Combate em Java](https://github.com/LucianoDenio/Desafio_Combate_Java)**
+  Uma simulação de combate entre campeões em Java, onde você pode personalizar atributos e acompanhar a evolução da batalha.
 
-## 💼 Projetos Principais
+- 🍔 **[Site do Siri Cascudo](https://github.com/LucianoDenio/Site-do-Siri-Cascudo)**
+  [Insira aqui uma breve descrição do projeto, o que ele faz e as tecnologias usadas, como HTML, CSS e JavaScript.]
 
-- [Jogo de Combate em Java](https://github.com/LucianoDenio/Desafio_Combate_Java) - Uma simulação de combate entre campeões em Java, onde você pode personalizar atributos e acompanhar a evolução da batalha.
+- 🔧 **[Suporte Identifick](#)**
+  Plataforma de documentação de suporte com guias operacionais para equipamentos de controle de acesso (IDFace, Topdata, RWTech).
 
-
----
-
-## 📈 Minhas Estatísticas Pessoais
-
-- **Total de Commits:** ![GitHub Commits](https://img.shields.io/github/commit-activity/y/LucianoDenio/Site-do-Siri-Cascudo)
-- **Total de Stars:** ![GitHub Stars](https://img.shields.io/github/stars/LucianoDenio/Site-do-Siri-Cascudo)
-- **Total de PRs:** ![GitHub PRs](https://img.shields.io/github/issues-pr/LucianoDenio/Site-do-Siri-Cascudo)
+- 🍃 **[EcoTrack](#)**
+  Aplicação web desenvolvida para estimar a produção de oxigênio e o impacto ambiental de diferentes tipos de plantas.
 
 ---
 
-## 📫 Contato
-
-Se você quiser colaborar, discutir alguma ideia ou conhecer mais sobre mim, sinta-se à vontade para entrar em contato!
-
+⭐️ *Se você quiser colaborar, discutir alguma ideia ou conhecer mais sobre mim, sinta-se à vontade para entrar em contato!*
